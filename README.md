@@ -13,7 +13,7 @@ Contents
 Notes
 --------------------------------
 
-The code is meant only to allow reproduction of the designs and figures of the above article. To do this, simply run the function 'Run_Analysis_and_Plots.R'. Note that computation of the designs is by default parallelised via the ``mclapply`` function of the ``parallel`` R package.  
+The code is meant only to allow reproduction of the designs and figures of the above article. To do this, simply run the script 'Run_Analysis_and_Plots.R'. Note that computation of the designs is by default parallelised via the ``mclapply`` function of the ``parallel`` R package.  
 
 
 Author
